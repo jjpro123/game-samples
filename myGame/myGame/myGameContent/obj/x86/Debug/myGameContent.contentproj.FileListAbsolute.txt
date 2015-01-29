@@ -1,0 +1,2 @@
+C:\Users\jodonogh\Desktop\GameSample\myGame\myGame\myGameContent\obj\x86\Debug\myGameContent.contentprojResolveAssemblyReference.cache
+C:\Users\jodonogh\Desktop\GameSample\game-samples\myGame\myGame\myGameContent\obj\x86\Debug\myGameContent.contentprojResolveAssemblyReference.cache

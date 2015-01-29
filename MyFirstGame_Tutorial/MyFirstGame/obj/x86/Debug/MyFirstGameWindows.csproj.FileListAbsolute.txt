@@ -1,0 +1,2 @@
+C:\Users\jodonogh\Desktop\GameSample\MyFirstGame_Tutorial\MyFirstGame\obj\x86\Debug\MyFirstGameWindows.csprojResolveAssemblyReference.cache
+C:\Users\jodonogh\Desktop\GameSample\MyFirstGame_Tutorial\MyFirstGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt

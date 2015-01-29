@@ -1,0 +1,2 @@
+C:\Users\jodonogh\Desktop\GameSample\MyFirstGame_Tutorial\MyFirstGame\obj\Xbox 360\Debug\MyFirstGameXbox.csprojResolveAssemblyReference.cache
+C:\Users\jodonogh\Desktop\GameSample\MyFirstGame_Tutorial\MyFirstGame\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt

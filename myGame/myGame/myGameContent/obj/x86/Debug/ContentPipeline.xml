@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Models\p1_wedge.fbx</Source>
+      <Name>Models\p1_wedge</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jodonogh\Desktop\GameSample\game-samples\myGame\myGame\myGame\bin\x86\Debug\Content\Models\p1_wedge.xnb</Output>
+      <Time>2015-01-28T14:19:32.4075937-08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\p1_wedge_0.xml</Key>
+        <Value>2015-01-28T18:52:17.7999459-08:00</Value>
+      </Dependency>
+      <Request>C:\Users\jodonogh\Desktop\GameSample\game-samples\myGame\myGame\myGame\bin\x86\Debug\Content\textures\wedge_p1_diff_v1_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Audio\Waves\engine_2.wav</Source>
+      <Name>Audio\Waves\engine_2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jodonogh\Desktop\GameSample\game-samples\myGame\myGame\myGame\bin\x86\Debug\Content\Audio\Waves\engine_2.xnb</Output>
+      <Time>2007-12-09T18:16:56-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Waves\hyperspace_activate.wav</Source>
+      <Name>Audio\Waves\hyperspace_activate</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\jodonogh\Desktop\GameSample\game-samples\myGame\myGame\myGame\bin\x86\Debug\Content\Audio\Waves\hyperspace_activate.xnb</Output>
+      <Time>2007-12-09T18:16:56-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\p1_wedge.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\p1_wedge_0.xml</Output>
+      <Time>2015-01-28T14:19:32.4075937-08:00</Time>
+    </Item>
+    <Item>
+      <Source>textures\wedge_p1_diff_v1.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\jodonogh\Desktop\GameSample\game-samples\myGame\myGame\myGame\bin\x86\Debug\Content\textures\wedge_p1_diff_v1_0.xnb</Output>
+      <Time>2007-12-09T18:16:58-08:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\jodonogh\Desktop\GameSample\game-samples\myGame\myGame\myGameContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\jodonogh\Desktop\GameSample\game-samples\myGame\myGame\myGame\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\jodonogh\Desktop\GameSample\game-samples\myGame\myGame\myGameContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\jodonogh\Desktop\GameSample\game-samples\myGame\myGame\myGame\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-12-01T16:13:40.0607968-08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
